@@ -1,0 +1,2 @@
+# sparkintruder
+spark安全团队开发的多线程web爆破工具，可以做到随机x-forwarded-for与User-Agent以便于欺骗许多CMS的ip封锁
